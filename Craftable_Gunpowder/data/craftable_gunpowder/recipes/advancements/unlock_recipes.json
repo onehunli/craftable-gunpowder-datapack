@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "has_redstone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    { "items": [ "minecraft:redstone" ] }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "craftable_gunpowder:gunpowder_from_charcoal",
+            "craftable_gunpowder:gunpowder_from_coal"
+        ]
+    }
+}

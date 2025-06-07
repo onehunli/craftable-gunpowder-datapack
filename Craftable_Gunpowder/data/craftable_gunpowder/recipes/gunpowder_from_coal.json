@@ -1,0 +1,12 @@
+{
+    "type" : "minecraft:crafting_shapeless",
+    "group": "gunpowder_crafting",
+    "ingredients": [
+        { "item": "minecraft:coal" },
+        { "item": "minecraft:redstone" }
+    ],
+    "result": {
+        "item": "minecraft:gunpowder",
+        "count": 4
+    }
+}
