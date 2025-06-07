@@ -1,6 +1,6 @@
 # Add Recipe to Craft Gunpowder!
 
-The Craftable Gunpowder Datapack introduces two new crafting recipes in Minecraft, making it easier to obtain gunpowder in a vanilla-like way. Version 1.20.1 supported.
+The Craftable Gunpowder Datapack introduces two new crafting recipes in Minecraft, making it easier to obtain gunpowder in a vanilla-like way. Target version: `1.20.1`.
 
 **Combine Coal or Charcoal with Redstone Powder to get 4x Gunpowder.**
 
